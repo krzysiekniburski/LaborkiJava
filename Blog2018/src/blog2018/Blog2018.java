@@ -3,6 +3,7 @@ public class Blog2018 {
 
     public static void main(String[] args) {
         System.out.println("Haloo");
+        System.out.println("Halo2");
     }
     
 }
